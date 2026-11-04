@@ -1,0 +1,67 @@
+{
+  "full": [
+    "right_px",
+    "right_py",
+    "right_pz",
+    "right_ax",
+    "right_ay",
+    "right_az",
+    "right_trigger",
+    "head_px",
+    "head_py",
+    "head_pz",
+    "head_ax",
+    "head_ay",
+    "head_az",
+    "left_px",
+    "left_py",
+    "left_pz",
+    "left_ax",
+    "left_ay",
+    "left_az"
+  ],
+  "subset1": [
+    "right_py",
+    "head_ax",
+    "head_ay"
+  ],
+  "subset2": [
+    "right_pz",
+    "right_ay",
+    "right_az",
+    "head_py",
+    "left_px",
+    "left_py",
+    "left_ay"
+  ],
+  "subset3": [
+    "right_ay",
+    "head_py",
+    "left_az"
+  ],
+  "subset4": [
+    "right_px",
+    "right_py",
+    "right_pz",
+    "right_ax",
+    "right_ay",
+    "right_az",
+    "head_py",
+    "head_pz",
+    "head_ax",
+    "head_ay",
+    "left_px",
+    "left_py",
+    "left_pz",
+    "left_ax",
+    "left_ay",
+    "left_az"
+  ],
+  "subset5": [
+    "head_py",
+    "head_pz",
+    "head_ay",
+    "left_pz",
+    "left_ax"
+  ]
+}
